@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+//interração simples
 public class InterfaceGrafica extends JFrame implements ActionListener {
         //Atributos para a interface Grafica
         private JButton botaoINICIAR;
