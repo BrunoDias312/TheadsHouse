@@ -1,4 +1,4 @@
-<h1 align="center"> Curso Rocketseat Explorer</h1>
+<h1 align="center">Exercicios da Faculdade</h1>
 
 <p align="center">
 Aluno: Bruno Dias<br>
